@@ -4,4 +4,4 @@ How to run:
 3. localhost:8000
 3. http://localhost/phpmyadmin
 
-See wiki for more!
+See Wiki for more!
