@@ -3,3 +3,5 @@ How to run:
 2. py -3 manage.py runserver 
 3. localhost:8000
 3. http://localhost/phpmyadmin
+
+See wiki for more!
